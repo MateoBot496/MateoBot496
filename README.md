@@ -7,7 +7,7 @@ Desarrollador web con experiencia en **React, JavaScript y Python**.
 Actualmente, busco oportunidades como desarrollador junior.  
 
 ## 🚀 Tecnologías y Herramientas  
-<div align="center">  
+<div align="center" style="display: flex;">  
   <div style="display: inline-block; margin: 10px; text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50"/><br/>
     <strong>JavaScript</strong>
