@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**MateoBot496/MateoBot496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+# ¡Hola! 👋 Soy Mateo  
+Desarrollador web con experiencia en **React, JavaScript y Python**.  
+Actualmente, busco oportunidades como desarrollador junior.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Proyectos destacados:**  
+- 📚 [Gestor de Biblioteca en React](https://github.com/tuusuario/proyecto-biblioteca)  
+- 🖩 [Calculadora Retro en JavaScript](https://github.com/tuusuario/calculadora-retro)  
+
+📫 **Contáctame:**  
+[LinkedIn](https://linkedin.com/in/tuusuario) | [Portafolio](https://tuportafolio.com) | [Email](mailto:tuemail@gmail.com)
